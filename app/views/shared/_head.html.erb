@@ -1,0 +1,22 @@
+<title><%= Rails.configuration.application_name %></title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<%= csrf_meta_tags %>
+<%= csp_meta_tag %>
+
+<%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+<%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <nav class="nav">
+      <select id="feature" disabled>
+        <option value="">SELECT FEATURE</option>
+        <option value="configureMap">Configure Map</option>
+        <option value="drawPointFeature">Draw Point Feature</option>
+        <option value="drawTrackLine">Draw Track(Line)</option>
+        <option value="drawTrackPoint">Draw Track(Point)</option>
+        <option value="drawTrackPointFitView">Draw Track(Point)-fit View</option>
+        <option value="drawTrackWithMarker">Draw Track with StartEnd Marker</option>
+        <option value="drawTrackWithTooltip">Draw Track with Tooltip</option>
+        <option value="drawGrid">Draw MultiColored Grid</option>
+      </select>
+  </nav>

@@ -1,0 +1,2027 @@
+[
+  {
+    "id": 1626283020,
+    "lat": 1.37244941,
+    "lon": 103.75190784,
+    "speed": 86.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 204,
+    "recorded_on": "2019-08-09T10:07:17"
+  },
+  {
+    "id": 1626283019,
+    "lat": 1.37264641,
+    "lon": 103.75200359,
+    "speed": 86.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 201,
+    "recorded_on": "2019-08-09T10:07:16"
+  },
+  {
+    "id": 1626283018,
+    "lat": 1.37284988,
+    "lon": 103.75207756,
+    "speed": 86.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 203,
+    "recorded_on": "2019-08-09T10:07:15"
+  },
+  {
+    "id": 1626283017,
+    "lat": 1.37304651,
+    "lon": 103.75216184,
+    "speed": 79.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 202,
+    "recorded_on": "2019-08-09T10:07:14"
+  },
+  {
+    "id": 1626283016,
+    "lat": 1.37323041,
+    "lon": 103.75223544,
+    "speed": 75.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 201,
+    "recorded_on": "2019-08-09T10:07:13"
+  },
+  {
+    "id": 1626283015,
+    "lat": 1.37340835,
+    "lon": 103.75230024,
+    "speed": 72.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 200,
+    "recorded_on": "2019-08-09T10:07:12"
+  },
+  {
+    "id": 1626283014,
+    "lat": 1.37358351,
+    "lon": 103.75235271,
+    "speed": 68.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 200,
+    "recorded_on": "2019-08-09T10:07:11"
+  },
+  {
+    "id": 1626283013,
+    "lat": 1.37374846,
+    "lon": 103.75240816,
+    "speed": 61.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 200,
+    "recorded_on": "2019-08-09T10:07:10"
+  },
+  {
+    "id": 1626283012,
+    "lat": 1.37390083,
+    "lon": 103.75245403,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 200,
+    "recorded_on": "2019-08-09T10:07:09"
+  },
+  {
+    "id": 1626283011,
+    "lat": 1.37402998,
+    "lon": 103.75250103,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 198,
+    "recorded_on": "2019-08-09T10:07:08"
+  },
+  {
+    "id": 1626283010,
+    "lat": 1.37416003,
+    "lon": 103.75254177,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 200,
+    "recorded_on": "2019-08-09T10:07:07"
+  },
+  {
+    "id": 1626283009,
+    "lat": 1.3742882,
+    "lon": 103.752585,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 202,
+    "recorded_on": "2019-08-09T10:07:06"
+  },
+  {
+    "id": 1626283008,
+    "lat": 1.37441054,
+    "lon": 103.75263959,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 204,
+    "recorded_on": "2019-08-09T10:07:05"
+  },
+  {
+    "id": 1626283007,
+    "lat": 1.37453012,
+    "lon": 103.75269182,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 204,
+    "recorded_on": "2019-08-09T10:07:04"
+  },
+  {
+    "id": 1626283006,
+    "lat": 1.3746476,
+    "lon": 103.7527452,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 208,
+    "recorded_on": "2019-08-09T10:07:03"
+  },
+  {
+    "id": 1626283005,
+    "lat": 1.37475549,
+    "lon": 103.75279667,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 211,
+    "recorded_on": "2019-08-09T10:07:02"
+  },
+  {
+    "id": 1626283004,
+    "lat": 1.37486485,
+    "lon": 103.75286178,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 211,
+    "recorded_on": "2019-08-09T10:07:01"
+  },
+  {
+    "id": 1626283003,
+    "lat": 1.37496604,
+    "lon": 103.75292445,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 213,
+    "recorded_on": "2019-08-09T10:07:00"
+  },
+  {
+    "id": 1626283002,
+    "lat": 1.37507912,
+    "lon": 103.75298922,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 220,
+    "recorded_on": "2019-08-09T10:06:59"
+  },
+  {
+    "id": 1626283001,
+    "lat": 1.375182,
+    "lon": 103.75307841,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 218,
+    "recorded_on": "2019-08-09T10:06:58"
+  },
+  {
+    "id": 1626283000,
+    "lat": 1.37528165,
+    "lon": 103.75315854,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 217,
+    "recorded_on": "2019-08-09T10:06:57"
+  },
+  {
+    "id": 1626282999,
+    "lat": 1.375387,
+    "lon": 103.75324076,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 216,
+    "recorded_on": "2019-08-09T10:06:56"
+  },
+  {
+    "id": 1626282998,
+    "lat": 1.3754869,
+    "lon": 103.75331062,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 219,
+    "recorded_on": "2019-08-09T10:06:55"
+  },
+  {
+    "id": 1626282997,
+    "lat": 1.37558046,
+    "lon": 103.75339048,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 219,
+    "recorded_on": "2019-08-09T10:06:54"
+  },
+  {
+    "id": 1626282996,
+    "lat": 1.37566415,
+    "lon": 103.75346192,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 218,
+    "recorded_on": "2019-08-09T10:06:53"
+  },
+  {
+    "id": 1626282995,
+    "lat": 1.37575256,
+    "lon": 103.75353334,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 217,
+    "recorded_on": "2019-08-09T10:06:52"
+  },
+  {
+    "id": 1626282994,
+    "lat": 1.37584322,
+    "lon": 103.75360354,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 219,
+    "recorded_on": "2019-08-09T10:06:51"
+  },
+  {
+    "id": 1626282993,
+    "lat": 1.37593696,
+    "lon": 103.75367636,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 219,
+    "recorded_on": "2019-08-09T10:06:50"
+  },
+  {
+    "id": 1626282992,
+    "lat": 1.37602069,
+    "lon": 103.75374541,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 219,
+    "recorded_on": "2019-08-09T10:06:49"
+  },
+  {
+    "id": 1626282991,
+    "lat": 1.37610487,
+    "lon": 103.75381535,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 218,
+    "recorded_on": "2019-08-09T10:06:48"
+  },
+  {
+    "id": 1626282990,
+    "lat": 1.3761759,
+    "lon": 103.75386639,
+    "speed": 28.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 224,
+    "recorded_on": "2019-08-09T10:06:47"
+  },
+  {
+    "id": 1626282989,
+    "lat": 1.37623053,
+    "lon": 103.75391357,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 225,
+    "recorded_on": "2019-08-09T10:06:46"
+  },
+  {
+    "id": 1626282988,
+    "lat": 1.37627989,
+    "lon": 103.75395766,
+    "speed": 18.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 225,
+    "recorded_on": "2019-08-09T10:06:45"
+  },
+  {
+    "id": 1626282987,
+    "lat": 1.37631596,
+    "lon": 103.75399262,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 227,
+    "recorded_on": "2019-08-09T10:06:44"
+  },
+  {
+    "id": 1626282986,
+    "lat": 1.37634747,
+    "lon": 103.7540228,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 231,
+    "recorded_on": "2019-08-09T10:06:43"
+  },
+  {
+    "id": 1626282985,
+    "lat": 1.37636297,
+    "lon": 103.75404381,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 240,
+    "recorded_on": "2019-08-09T10:06:42"
+  },
+  {
+    "id": 1626282984,
+    "lat": 1.37636823,
+    "lon": 103.75404604,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 240,
+    "recorded_on": "2019-08-09T10:06:41"
+  },
+  {
+    "id": 1626282983,
+    "lat": 1.37636633,
+    "lon": 103.75405176,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 231,
+    "recorded_on": "2019-08-09T10:06:40"
+  },
+  {
+    "id": 1626282982,
+    "lat": 1.37637456,
+    "lon": 103.75405588,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:39"
+  },
+  {
+    "id": 1626282981,
+    "lat": 1.37637457,
+    "lon": 103.75405594,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:38"
+  },
+  {
+    "id": 1626282980,
+    "lat": 1.37637457,
+    "lon": 103.75405598,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:37"
+  },
+  {
+    "id": 1626282979,
+    "lat": 1.37637457,
+    "lon": 103.75405599,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:36"
+  },
+  {
+    "id": 1626282978,
+    "lat": 1.37637433,
+    "lon": 103.75405614,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:35"
+  },
+  {
+    "id": 1626282977,
+    "lat": 1.37637403,
+    "lon": 103.75405625,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:34"
+  },
+  {
+    "id": 1626282976,
+    "lat": 1.37637403,
+    "lon": 103.75405625,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:33"
+  },
+  {
+    "id": 1626282975,
+    "lat": 1.37637375,
+    "lon": 103.75405664,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:32"
+  },
+  {
+    "id": 1626282974,
+    "lat": 1.37637375,
+    "lon": 103.75405666,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:31"
+  },
+  {
+    "id": 1626282973,
+    "lat": 1.37637376,
+    "lon": 103.75405669,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:30"
+  },
+  {
+    "id": 1626282972,
+    "lat": 1.37637386,
+    "lon": 103.75405632,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:29"
+  },
+  {
+    "id": 1626282971,
+    "lat": 1.37637386,
+    "lon": 103.75405634,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:28"
+  },
+  {
+    "id": 1626282970,
+    "lat": 1.37637387,
+    "lon": 103.75405634,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:27"
+  },
+  {
+    "id": 1626282969,
+    "lat": 1.37637391,
+    "lon": 103.75405613,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:26"
+  },
+  {
+    "id": 1626282968,
+    "lat": 1.37637389,
+    "lon": 103.75405617,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:25"
+  },
+  {
+    "id": 1626282967,
+    "lat": 1.37637388,
+    "lon": 103.7540562,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:24"
+  },
+  {
+    "id": 1626282966,
+    "lat": 1.37637399,
+    "lon": 103.75405582,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:23"
+  },
+  {
+    "id": 1626282965,
+    "lat": 1.37637396,
+    "lon": 103.75405578,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:22"
+  },
+  {
+    "id": 1626282964,
+    "lat": 1.37637399,
+    "lon": 103.75405556,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:21"
+  },
+  {
+    "id": 1626282963,
+    "lat": 1.37637381,
+    "lon": 103.7540555,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:20"
+  },
+  {
+    "id": 1626282962,
+    "lat": 1.37637395,
+    "lon": 103.75405534,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:19"
+  },
+  {
+    "id": 1626282961,
+    "lat": 1.37637421,
+    "lon": 103.75405556,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:18"
+  },
+  {
+    "id": 1626282960,
+    "lat": 1.37637447,
+    "lon": 103.75405498,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:17"
+  },
+  {
+    "id": 1626282959,
+    "lat": 1.37637676,
+    "lon": 103.75405462,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:16"
+  },
+  {
+    "id": 1626282958,
+    "lat": 1.37637858,
+    "lon": 103.75405534,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:15"
+  },
+  {
+    "id": 1626282957,
+    "lat": 1.37637705,
+    "lon": 103.75405495,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:14"
+  },
+  {
+    "id": 1626282956,
+    "lat": 1.37637624,
+    "lon": 103.75405374,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:13"
+  },
+  {
+    "id": 1626282955,
+    "lat": 1.37637324,
+    "lon": 103.75405369,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:12"
+  },
+  {
+    "id": 1626282954,
+    "lat": 1.37637114,
+    "lon": 103.75405716,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:11"
+  },
+  {
+    "id": 1626282953,
+    "lat": 1.37636769,
+    "lon": 103.75405559,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:10"
+  },
+  {
+    "id": 1626282952,
+    "lat": 1.37636741,
+    "lon": 103.75405494,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:09"
+  },
+  {
+    "id": 1626282951,
+    "lat": 1.37636644,
+    "lon": 103.7540552,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:06:08"
+  },
+  {
+    "id": 1626282950,
+    "lat": 1.37636602,
+    "lon": 103.754057,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 231,
+    "recorded_on": "2019-08-09T10:06:07"
+  },
+  {
+    "id": 1626282949,
+    "lat": 1.37636181,
+    "lon": 103.75406571,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 222,
+    "recorded_on": "2019-08-09T10:06:06"
+  },
+  {
+    "id": 1626282948,
+    "lat": 1.37637618,
+    "lon": 103.75407432,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 231,
+    "recorded_on": "2019-08-09T10:06:05"
+  },
+  {
+    "id": 1626282947,
+    "lat": 1.37639726,
+    "lon": 103.75409358,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 236,
+    "recorded_on": "2019-08-09T10:06:04"
+  },
+  {
+    "id": 1626282946,
+    "lat": 1.37642244,
+    "lon": 103.75413316,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 234,
+    "recorded_on": "2019-08-09T10:06:03"
+  },
+  {
+    "id": 1626282945,
+    "lat": 1.3764618,
+    "lon": 103.75418878,
+    "speed": 28.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 238,
+    "recorded_on": "2019-08-09T10:06:02"
+  },
+  {
+    "id": 1626282944,
+    "lat": 1.37649681,
+    "lon": 103.75424982,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 238,
+    "recorded_on": "2019-08-09T10:06:01"
+  },
+  {
+    "id": 1626282943,
+    "lat": 1.37654637,
+    "lon": 103.7543126,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 243,
+    "recorded_on": "2019-08-09T10:06:00"
+  },
+  {
+    "id": 1626282942,
+    "lat": 1.37658995,
+    "lon": 103.75440638,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 246,
+    "recorded_on": "2019-08-09T10:05:59"
+  },
+  {
+    "id": 1626282941,
+    "lat": 1.37665868,
+    "lon": 103.7545878,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 250,
+    "recorded_on": "2019-08-09T10:05:57"
+  },
+  {
+    "id": 1626283075,
+    "lat": 1.38030159,
+    "lon": 103.76116291,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:04:14"
+  },
+  {
+    "id": 1626283074,
+    "lat": 1.38030041,
+    "lon": 103.76116024,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 153,
+    "recorded_on": "2019-08-09T10:04:12"
+  },
+  {
+    "id": 1626283073,
+    "lat": 1.3803068,
+    "lon": 103.76116074,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 153,
+    "recorded_on": "2019-08-09T10:04:11"
+  },
+  {
+    "id": 1626283072,
+    "lat": 1.38031691,
+    "lon": 103.76115406,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 153,
+    "recorded_on": "2019-08-09T10:04:10"
+  },
+  {
+    "id": 1626283071,
+    "lat": 1.38033659,
+    "lon": 103.76114455,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 153,
+    "recorded_on": "2019-08-09T10:04:09"
+  },
+  {
+    "id": 1626283070,
+    "lat": 1.3803717,
+    "lon": 103.76112946,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 148,
+    "recorded_on": "2019-08-09T10:04:08"
+  },
+  {
+    "id": 1626283069,
+    "lat": 1.38042063,
+    "lon": 103.76109695,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 151,
+    "recorded_on": "2019-08-09T10:04:07"
+  },
+  {
+    "id": 1626283068,
+    "lat": 1.38049007,
+    "lon": 103.76105749,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 153,
+    "recorded_on": "2019-08-09T10:04:06"
+  },
+  {
+    "id": 1626283067,
+    "lat": 1.38058662,
+    "lon": 103.76101036,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 156,
+    "recorded_on": "2019-08-09T10:04:05"
+  },
+  {
+    "id": 1626283066,
+    "lat": 1.38070511,
+    "lon": 103.7609607,
+    "speed": 57.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 157,
+    "recorded_on": "2019-08-09T10:04:04"
+  },
+  {
+    "id": 1626283065,
+    "lat": 1.38084087,
+    "lon": 103.7609067,
+    "speed": 64.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 153,
+    "recorded_on": "2019-08-09T10:04:03"
+  },
+  {
+    "id": 1626283064,
+    "lat": 1.38098406,
+    "lon": 103.76083234,
+    "speed": 72.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 148,
+    "recorded_on": "2019-08-09T10:04:02"
+  },
+  {
+    "id": 1626283063,
+    "lat": 1.38114103,
+    "lon": 103.76074381,
+    "speed": 79.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 147,
+    "recorded_on": "2019-08-09T10:04:01"
+  },
+  {
+    "id": 1626283062,
+    "lat": 1.38130241,
+    "lon": 103.76063507,
+    "speed": 79.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 147,
+    "recorded_on": "2019-08-09T10:04:00"
+  },
+  {
+    "id": 1626283061,
+    "lat": 1.38146887,
+    "lon": 103.76052763,
+    "speed": 82.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 147,
+    "recorded_on": "2019-08-09T10:03:59"
+  },
+  {
+    "id": 1626283060,
+    "lat": 1.38163697,
+    "lon": 103.76041808,
+    "speed": 82.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 148,
+    "recorded_on": "2019-08-09T10:03:58"
+  },
+  {
+    "id": 1626283059,
+    "lat": 1.38181305,
+    "lon": 103.76030861,
+    "speed": 82.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 149,
+    "recorded_on": "2019-08-09T10:03:57"
+  },
+  {
+    "id": 1626283058,
+    "lat": 1.38199399,
+    "lon": 103.76020641,
+    "speed": 82.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 149,
+    "recorded_on": "2019-08-09T10:03:56"
+  },
+  {
+    "id": 1626283057,
+    "lat": 1.38217633,
+    "lon": 103.76009982,
+    "speed": 82.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 149,
+    "recorded_on": "2019-08-09T10:03:55"
+  },
+  {
+    "id": 1626283056,
+    "lat": 1.38234962,
+    "lon": 103.75999617,
+    "speed": 79.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 149,
+    "recorded_on": "2019-08-09T10:03:54"
+  },
+  {
+    "id": 1626283055,
+    "lat": 1.38251692,
+    "lon": 103.75989161,
+    "speed": 75.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 148,
+    "recorded_on": "2019-08-09T10:03:53"
+  },
+  {
+    "id": 1626283054,
+    "lat": 1.38267665,
+    "lon": 103.75978715,
+    "speed": 72.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 148,
+    "recorded_on": "2019-08-09T10:03:52"
+  },
+  {
+    "id": 1626283053,
+    "lat": 1.38284321,
+    "lon": 103.75968135,
+    "speed": 57.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 149,
+    "recorded_on": "2019-08-09T10:03:51"
+  },
+  {
+    "id": 1626283052,
+    "lat": 1.38297241,
+    "lon": 103.75960869,
+    "speed": 61.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 147,
+    "recorded_on": "2019-08-09T10:03:50"
+  },
+  {
+    "id": 1626283051,
+    "lat": 1.38309886,
+    "lon": 103.75952362,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 146,
+    "recorded_on": "2019-08-09T10:03:49"
+  },
+  {
+    "id": 1626283050,
+    "lat": 1.38322314,
+    "lon": 103.75943949,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 143,
+    "recorded_on": "2019-08-09T10:03:48"
+  },
+  {
+    "id": 1626283049,
+    "lat": 1.38331685,
+    "lon": 103.75936618,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 143,
+    "recorded_on": "2019-08-09T10:03:47"
+  },
+  {
+    "id": 1626283048,
+    "lat": 1.38341045,
+    "lon": 103.7592958,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 142,
+    "recorded_on": "2019-08-09T10:03:46"
+  },
+  {
+    "id": 1626283047,
+    "lat": 1.38348993,
+    "lon": 103.7592299,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 142,
+    "recorded_on": "2019-08-09T10:03:45"
+  },
+  {
+    "id": 1626283046,
+    "lat": 1.38356215,
+    "lon": 103.75917157,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 145,
+    "recorded_on": "2019-08-09T10:03:44"
+  },
+  {
+    "id": 1626283045,
+    "lat": 1.38361646,
+    "lon": 103.75910371,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 181,
+    "recorded_on": "2019-08-09T10:03:43"
+  },
+  {
+    "id": 1626283044,
+    "lat": 1.38368737,
+    "lon": 103.75910376,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 192,
+    "recorded_on": "2019-08-09T10:03:42"
+  },
+  {
+    "id": 1626283043,
+    "lat": 1.38374772,
+    "lon": 103.75911175,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 211,
+    "recorded_on": "2019-08-09T10:03:41"
+  },
+  {
+    "id": 1626283042,
+    "lat": 1.38379819,
+    "lon": 103.75914349,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 226,
+    "recorded_on": "2019-08-09T10:03:40"
+  },
+  {
+    "id": 1626283041,
+    "lat": 1.38383991,
+    "lon": 103.75918532,
+    "speed": 28.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 237,
+    "recorded_on": "2019-08-09T10:03:39"
+  },
+  {
+    "id": 1626283040,
+    "lat": 1.38388038,
+    "lon": 103.75924468,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 239,
+    "recorded_on": "2019-08-09T10:03:38"
+  },
+  {
+    "id": 1626283039,
+    "lat": 1.38391919,
+    "lon": 103.75931246,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 238,
+    "recorded_on": "2019-08-09T10:03:37"
+  },
+  {
+    "id": 1626283038,
+    "lat": 1.38397392,
+    "lon": 103.75938199,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 239,
+    "recorded_on": "2019-08-09T10:03:36"
+  },
+  {
+    "id": 1626283037,
+    "lat": 1.38402338,
+    "lon": 103.75946474,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 238,
+    "recorded_on": "2019-08-09T10:03:35"
+  },
+  {
+    "id": 1626283036,
+    "lat": 1.38408224,
+    "lon": 103.75955339,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 240,
+    "recorded_on": "2019-08-09T10:03:34"
+  },
+  {
+    "id": 1626283035,
+    "lat": 1.38413467,
+    "lon": 103.75963885,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 238,
+    "recorded_on": "2019-08-09T10:03:33"
+  },
+  {
+    "id": 1626283034,
+    "lat": 1.38418075,
+    "lon": 103.75971319,
+    "speed": 39.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 238,
+    "recorded_on": "2019-08-09T10:03:32"
+  },
+  {
+    "id": 1626283033,
+    "lat": 1.38422986,
+    "lon": 103.75979403,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 235,
+    "recorded_on": "2019-08-09T10:03:31"
+  },
+  {
+    "id": 1626283032,
+    "lat": 1.38428511,
+    "lon": 103.75986988,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 233,
+    "recorded_on": "2019-08-09T10:03:30"
+  },
+  {
+    "id": 1626283031,
+    "lat": 1.38433838,
+    "lon": 103.75993556,
+    "speed": 28.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 231,
+    "recorded_on": "2019-08-09T10:03:29"
+  },
+  {
+    "id": 1626283030,
+    "lat": 1.38438201,
+    "lon": 103.75999187,
+    "speed": 28.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 228,
+    "recorded_on": "2019-08-09T10:03:28"
+  },
+  {
+    "id": 1626283029,
+    "lat": 1.38443219,
+    "lon": 103.76004562,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 225,
+    "recorded_on": "2019-08-09T10:03:27"
+  },
+  {
+    "id": 1626283028,
+    "lat": 1.38447843,
+    "lon": 103.76009092,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 225,
+    "recorded_on": "2019-08-09T10:03:26"
+  },
+  {
+    "id": 1626283027,
+    "lat": 1.38451954,
+    "lon": 103.76013264,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 216,
+    "recorded_on": "2019-08-09T10:03:25"
+  },
+  {
+    "id": 1626283026,
+    "lat": 1.3845585,
+    "lon": 103.76017044,
+    "speed": 18.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 194,
+    "recorded_on": "2019-08-09T10:03:24"
+  },
+  {
+    "id": 1626283025,
+    "lat": 1.38461073,
+    "lon": 103.76020347,
+    "speed": 18.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 160,
+    "recorded_on": "2019-08-09T10:03:23"
+  },
+  {
+    "id": 1626283024,
+    "lat": 1.38465719,
+    "lon": 103.76018971,
+    "speed": 18.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 157,
+    "recorded_on": "2019-08-09T10:03:22"
+  },
+  {
+    "id": 1626283023,
+    "lat": 1.38471331,
+    "lon": 103.76016606,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 146,
+    "recorded_on": "2019-08-09T10:03:21"
+  },
+  {
+    "id": 1626283022,
+    "lat": 1.38473431,
+    "lon": 103.76015001,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 146,
+    "recorded_on": "2019-08-09T10:03:20"
+  },
+  {
+    "id": 1626283021,
+    "lat": 1.38475791,
+    "lon": 103.76013686,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 129,
+    "recorded_on": "2019-08-09T10:03:19"
+  },
+  {
+    "id": 1626281592,
+    "lat": 1.38476705,
+    "lon": 103.76012672,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:18"
+  },
+  {
+    "id": 1626281591,
+    "lat": 1.38476713,
+    "lon": 103.76012671,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:17"
+  },
+  {
+    "id": 1626281590,
+    "lat": 1.38476767,
+    "lon": 103.7601265,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:16"
+  },
+  {
+    "id": 1626281589,
+    "lat": 1.38476859,
+    "lon": 103.76012608,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:15"
+  },
+  {
+    "id": 1626281588,
+    "lat": 1.38477037,
+    "lon": 103.76012528,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:14"
+  },
+  {
+    "id": 1626281587,
+    "lat": 1.38477008,
+    "lon": 103.76012532,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:13"
+  },
+  {
+    "id": 1626281586,
+    "lat": 1.38476917,
+    "lon": 103.76012547,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:12"
+  },
+  {
+    "id": 1626281585,
+    "lat": 1.38476834,
+    "lon": 103.76012629,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:11"
+  },
+  {
+    "id": 1626281584,
+    "lat": 1.38476611,
+    "lon": 103.76012803,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:10"
+  },
+  {
+    "id": 1626281583,
+    "lat": 1.38476573,
+    "lon": 103.7601276,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:09"
+  },
+  {
+    "id": 1626281582,
+    "lat": 1.38476586,
+    "lon": 103.76012921,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:08"
+  },
+  {
+    "id": 1626281581,
+    "lat": 1.3847674,
+    "lon": 103.76013187,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:07"
+  },
+  {
+    "id": 1626281580,
+    "lat": 1.38476879,
+    "lon": 103.76013638,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:06"
+  },
+  {
+    "id": 1626281579,
+    "lat": 1.38476781,
+    "lon": 103.76013731,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:05"
+  },
+  {
+    "id": 1626281578,
+    "lat": 1.38476687,
+    "lon": 103.76013587,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:04"
+  },
+  {
+    "id": 1626281577,
+    "lat": 1.38476212,
+    "lon": 103.76013316,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:03"
+  },
+  {
+    "id": 1626281576,
+    "lat": 1.38476105,
+    "lon": 103.76012924,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:02"
+  },
+  {
+    "id": 1626281575,
+    "lat": 1.38475844,
+    "lon": 103.76013038,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:01"
+  },
+  {
+    "id": 1626281574,
+    "lat": 1.38475475,
+    "lon": 103.76012938,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:03:00"
+  },
+  {
+    "id": 1626281573,
+    "lat": 1.38474818,
+    "lon": 103.76012945,
+    "speed": 0.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 0,
+    "recorded_on": "2019-08-09T10:02:59"
+  },
+  {
+    "id": 1626281572,
+    "lat": 1.38474013,
+    "lon": 103.76012943,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 125,
+    "recorded_on": "2019-08-09T10:02:58"
+  },
+  {
+    "id": 1626281571,
+    "lat": 1.38474399,
+    "lon": 103.76013056,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 120,
+    "recorded_on": "2019-08-09T10:02:57"
+  },
+  {
+    "id": 1626281570,
+    "lat": 1.3847595,
+    "lon": 103.76008493,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 124,
+    "recorded_on": "2019-08-09T10:02:56"
+  },
+  {
+    "id": 1626281569,
+    "lat": 1.38479194,
+    "lon": 103.76003233,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 118,
+    "recorded_on": "2019-08-09T10:02:55"
+  },
+  {
+    "id": 1626281568,
+    "lat": 1.38482951,
+    "lon": 103.75992687,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 114,
+    "recorded_on": "2019-08-09T10:02:54"
+  },
+  {
+    "id": 1626281567,
+    "lat": 1.38488146,
+    "lon": 103.75981008,
+    "speed": 61.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 111,
+    "recorded_on": "2019-08-09T10:02:53"
+  },
+  {
+    "id": 1626281566,
+    "lat": 1.38490097,
+    "lon": 103.75964406,
+    "speed": 54.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 114,
+    "recorded_on": "2019-08-09T10:02:52"
+  },
+  {
+    "id": 1626281565,
+    "lat": 1.38487597,
+    "lon": 103.75950134,
+    "speed": 57.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 125,
+    "recorded_on": "2019-08-09T10:02:51"
+  },
+  {
+    "id": 1626281564,
+    "lat": 1.384949,
+    "lon": 103.75938188,
+    "speed": 57.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 126,
+    "recorded_on": "2019-08-09T10:02:50"
+  },
+  {
+    "id": 1626281563,
+    "lat": 1.38502227,
+    "lon": 103.75924883,
+    "speed": 57.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 128,
+    "recorded_on": "2019-08-09T10:02:49"
+  },
+  {
+    "id": 1626281562,
+    "lat": 1.38511429,
+    "lon": 103.75911616,
+    "speed": 50.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 132,
+    "recorded_on": "2019-08-09T10:02:48"
+  },
+  {
+    "id": 1626281561,
+    "lat": 1.38519763,
+    "lon": 103.75900832,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 136,
+    "recorded_on": "2019-08-09T10:02:47"
+  },
+  {
+    "id": 1626281560,
+    "lat": 1.38528299,
+    "lon": 103.75891839,
+    "speed": 46.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 137,
+    "recorded_on": "2019-08-09T10:02:46"
+  },
+  {
+    "id": 1626281559,
+    "lat": 1.38536256,
+    "lon": 103.75881065,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 150,
+    "recorded_on": "2019-08-09T10:02:45"
+  },
+  {
+    "id": 1626281558,
+    "lat": 1.38545954,
+    "lon": 103.75874632,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 154,
+    "recorded_on": "2019-08-09T10:02:44"
+  },
+  {
+    "id": 1626281557,
+    "lat": 1.38555605,
+    "lon": 103.75869849,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 157,
+    "recorded_on": "2019-08-09T10:02:43"
+  },
+  {
+    "id": 1626281556,
+    "lat": 1.3856575,
+    "lon": 103.75864817,
+    "speed": 43.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 167,
+    "recorded_on": "2019-08-09T10:02:42"
+  },
+  {
+    "id": 1626281555,
+    "lat": 1.38576234,
+    "lon": 103.75862289,
+    "speed": 36.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 173,
+    "recorded_on": "2019-08-09T10:02:41"
+  },
+  {
+    "id": 1626281554,
+    "lat": 1.38585161,
+    "lon": 103.75860839,
+    "speed": 32.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 175,
+    "recorded_on": "2019-08-09T10:02:40"
+  },
+  {
+    "id": 1626281553,
+    "lat": 1.38593992,
+    "lon": 103.75860453,
+    "speed": 25.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 162,
+    "recorded_on": "2019-08-09T10:02:39"
+  },
+  {
+    "id": 1626281552,
+    "lat": 1.38599886,
+    "lon": 103.75858047,
+    "speed": 21.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 162,
+    "recorded_on": "2019-08-09T10:02:38"
+  },
+  {
+    "id": 1626281551,
+    "lat": 1.38604554,
+    "lon": 103.75853879,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 146,
+    "recorded_on": "2019-08-09T10:02:37"
+  },
+  {
+    "id": 1626281550,
+    "lat": 1.38607542,
+    "lon": 103.75851897,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 164,
+    "recorded_on": "2019-08-09T10:02:36"
+  },
+  {
+    "id": 1626281549,
+    "lat": 1.38610286,
+    "lon": 103.75850891,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 179,
+    "recorded_on": "2019-08-09T10:02:35"
+  },
+  {
+    "id": 1626281548,
+    "lat": 1.38613832,
+    "lon": 103.75850898,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 190,
+    "recorded_on": "2019-08-09T10:02:34"
+  },
+  {
+    "id": 1626281547,
+    "lat": 1.38617912,
+    "lon": 103.7585169,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 188,
+    "recorded_on": "2019-08-09T10:02:33"
+  },
+  {
+    "id": 1626281546,
+    "lat": 1.38621932,
+    "lon": 103.75852324,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 190,
+    "recorded_on": "2019-08-09T10:02:32"
+  },
+  {
+    "id": 1626281545,
+    "lat": 1.38626016,
+    "lon": 103.75852993,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 190,
+    "recorded_on": "2019-08-09T10:02:31"
+  },
+  {
+    "id": 1626281544,
+    "lat": 1.38629814,
+    "lon": 103.75853644,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 193,
+    "recorded_on": "2019-08-09T10:02:30"
+  },
+  {
+    "id": 1626281543,
+    "lat": 1.38633406,
+    "lon": 103.75854489,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 200,
+    "recorded_on": "2019-08-09T10:02:29"
+  },
+  {
+    "id": 1626281542,
+    "lat": 1.38637145,
+    "lon": 103.75855865,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 202,
+    "recorded_on": "2019-08-09T10:02:28"
+  },
+  {
+    "id": 1626281541,
+    "lat": 1.38641138,
+    "lon": 103.75857486,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 199,
+    "recorded_on": "2019-08-09T10:02:27"
+  },
+  {
+    "id": 1626281540,
+    "lat": 1.38645025,
+    "lon": 103.75858834,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 192,
+    "recorded_on": "2019-08-09T10:02:26"
+  },
+  {
+    "id": 1626281539,
+    "lat": 1.38649187,
+    "lon": 103.75859688,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 184,
+    "recorded_on": "2019-08-09T10:02:25"
+  },
+  {
+    "id": 1626281538,
+    "lat": 1.3865375,
+    "lon": 103.75859711,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 172,
+    "recorded_on": "2019-08-09T10:02:24"
+  },
+  {
+    "id": 1626281537,
+    "lat": 1.38658163,
+    "lon": 103.75858934,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 160,
+    "recorded_on": "2019-08-09T10:02:23"
+  },
+  {
+    "id": 1626281536,
+    "lat": 1.3866166,
+    "lon": 103.75857591,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 149,
+    "recorded_on": "2019-08-09T10:02:22"
+  },
+  {
+    "id": 1626281535,
+    "lat": 1.38663473,
+    "lon": 103.75856145,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 127,
+    "recorded_on": "2019-08-09T10:02:21"
+  },
+  {
+    "id": 1626281534,
+    "lat": 1.38664108,
+    "lon": 103.75855237,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 103,
+    "recorded_on": "2019-08-09T10:02:20"
+  },
+  {
+    "id": 1626281533,
+    "lat": 1.38664142,
+    "lon": 103.75854021,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 98,
+    "recorded_on": "2019-08-09T10:02:19"
+  },
+  {
+    "id": 1626281532,
+    "lat": 1.38663859,
+    "lon": 103.7585253,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 101,
+    "recorded_on": "2019-08-09T10:02:18"
+  },
+  {
+    "id": 1626281531,
+    "lat": 1.3866346,
+    "lon": 103.75851502,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 120,
+    "recorded_on": "2019-08-09T10:02:17"
+  },
+  {
+    "id": 1626281530,
+    "lat": 1.38663729,
+    "lon": 103.75850143,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 136,
+    "recorded_on": "2019-08-09T10:02:16"
+  },
+  {
+    "id": 1626281529,
+    "lat": 1.38664256,
+    "lon": 103.75849444,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 105,
+    "recorded_on": "2019-08-09T10:02:15"
+  },
+  {
+    "id": 1626281528,
+    "lat": 1.38664721,
+    "lon": 103.75848951,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 105,
+    "recorded_on": "2019-08-09T10:02:14"
+  },
+  {
+    "id": 1626281527,
+    "lat": 1.38665113,
+    "lon": 103.75847997,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 109,
+    "recorded_on": "2019-08-09T10:02:13"
+  },
+  {
+    "id": 1626281526,
+    "lat": 1.38665737,
+    "lon": 103.75845745,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 107,
+    "recorded_on": "2019-08-09T10:02:12"
+  },
+  {
+    "id": 1626281525,
+    "lat": 1.38666687,
+    "lon": 103.75842604,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 109,
+    "recorded_on": "2019-08-09T10:02:11"
+  },
+  {
+    "id": 1626281524,
+    "lat": 1.38668047,
+    "lon": 103.75838787,
+    "speed": 18.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 114,
+    "recorded_on": "2019-08-09T10:02:10"
+  },
+  {
+    "id": 1626281523,
+    "lat": 1.38669778,
+    "lon": 103.75834828,
+    "speed": 18.0,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 117,
+    "recorded_on": "2019-08-09T10:02:09"
+  },
+  {
+    "id": 1626281522,
+    "lat": 1.38671635,
+    "lon": 103.75830894,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 120,
+    "recorded_on": "2019-08-09T10:02:08"
+  },
+  {
+    "id": 1626281521,
+    "lat": 1.38673552,
+    "lon": 103.7582735,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 121,
+    "recorded_on": "2019-08-09T10:02:07"
+  },
+  {
+    "id": 1626281520,
+    "lat": 1.3867518,
+    "lon": 103.75824172,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 121,
+    "recorded_on": "2019-08-09T10:02:06"
+  },
+  {
+    "id": 1626281519,
+    "lat": 1.38676826,
+    "lon": 103.75821138,
+    "speed": 14.4,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 120,
+    "recorded_on": "2019-08-09T10:02:05"
+  },
+  {
+    "id": 1626281518,
+    "lat": 1.38678329,
+    "lon": 103.75818934,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 120,
+    "recorded_on": "2019-08-09T10:02:04"
+  },
+  {
+    "id": 1626281517,
+    "lat": 1.3867907,
+    "lon": 103.75817547,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 119,
+    "recorded_on": "2019-08-09T10:02:03"
+  },
+  {
+    "id": 1626281516,
+    "lat": 1.38679637,
+    "lon": 103.75816058,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 116,
+    "recorded_on": "2019-08-09T10:02:02"
+  },
+  {
+    "id": 1626281515,
+    "lat": 1.38679979,
+    "lon": 103.75814616,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 110,
+    "recorded_on": "2019-08-09T10:02:01"
+  },
+  {
+    "id": 1626281514,
+    "lat": 1.3867996,
+    "lon": 103.75813531,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 120,
+    "recorded_on": "2019-08-09T10:02:00"
+  },
+  {
+    "id": 1626281513,
+    "lat": 1.3868023,
+    "lon": 103.75812674,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 130,
+    "recorded_on": "2019-08-09T10:01:59"
+  },
+  {
+    "id": 1626281512,
+    "lat": 1.38681083,
+    "lon": 103.7581163,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 148,
+    "recorded_on": "2019-08-09T10:01:58"
+  },
+  {
+    "id": 1626281511,
+    "lat": 1.38683069,
+    "lon": 103.75810798,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 159,
+    "recorded_on": "2019-08-09T10:01:57"
+  },
+  {
+    "id": 1626281510,
+    "lat": 1.38685708,
+    "lon": 103.758104,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 173,
+    "recorded_on": "2019-08-09T10:01:56"
+  },
+  {
+    "id": 1626281509,
+    "lat": 1.38688567,
+    "lon": 103.75811044,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 189,
+    "recorded_on": "2019-08-09T10:01:55"
+  },
+  {
+    "id": 1626281508,
+    "lat": 1.38691198,
+    "lon": 103.75812477,
+    "speed": 10.8,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 182,
+    "recorded_on": "2019-08-09T10:01:54"
+  },
+  {
+    "id": 1626281507,
+    "lat": 1.38693237,
+    "lon": 103.75814181,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 206,
+    "recorded_on": "2019-08-09T10:01:53"
+  },
+  {
+    "id": 1626281506,
+    "lat": 1.38694486,
+    "lon": 103.7581666,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 213,
+    "recorded_on": "2019-08-09T10:01:52"
+  },
+  {
+    "id": 1626281505,
+    "lat": 1.38694938,
+    "lon": 103.75817451,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 223,
+    "recorded_on": "2019-08-09T10:01:51"
+  },
+  {
+    "id": 1626281504,
+    "lat": 1.38695086,
+    "lon": 103.75822423,
+    "speed": 3.6,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 262,
+    "recorded_on": "2019-08-09T10:01:50"
+  },
+  {
+    "id": 1626281503,
+    "lat": 1.38693856,
+    "lon": 103.75828843,
+    "speed": 7.2,
+    "drive_id": "2zd7rxgyxt87rskox3hah7xm",
+    "bearing": 165,
+    "recorded_on": "2019-08-09T10:01:48"
+  }
+]
