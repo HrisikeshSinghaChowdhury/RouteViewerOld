@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RouteViewer</title>
+    <%= render 'shared/header' %>
+  </head>
+
+  <body>
+    <div class="row">
+      <div class="col-sm-3">
+        <%= yield%>
+      </div>
+
+      <div class="col-sm-9">
+        <div id="mapPublicHome" class="qiMap">
+        </div>
+      </div>
+    </div>
+
+    <%= render 'shared/footer' %>
+  </body>
+</html>

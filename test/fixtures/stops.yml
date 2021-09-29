@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  create_stops: MyString
+  from_address: MyString
+  from_lat: 9.99
+  from_lon: 9.99
+  to_address: MyString
+  to_lat: 9.99
+  to_lon: 9.99
+
+two:
+  create_stops: MyString
+  from_address: MyString
+  from_lat: 9.99
+  from_lon: 9.99
+  to_address: MyString
+  to_lat: 9.99
+  to_lon: 9.99
